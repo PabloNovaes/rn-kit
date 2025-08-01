@@ -1,0 +1,15 @@
+# Ignorar dependências e configs locais
+node_modules
+npm-debug.log
+yarn.lock
+package-lock.json
+tsconfig.json
+.babelrc
+.babel.config.js
+.eslintrc
+jest.config.js
+.vscode
+__tests__/
+*.test.js
+*.spec.js
+scripts/
